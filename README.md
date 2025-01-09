@@ -10,17 +10,17 @@ The NVIDIA Force Composition Pipeline is a powerful tool that helps to eliminate
 ## 🛠️ Step-by-Step Guide
 Follow these simple steps to set up the NVIDIA Force Composition Pipeline script to run automatically at startup:
 
-1. **Create the autostart directory:**
+1️⃣ **Create the autostart directory:**
    ```bash
    mkdir -p ~/.config/autostart
    ```
 
-2. **Create the startup script file:**
+2️⃣ **Create the startup script file:**
    ```bash
    nano ~/.config/autostart/nvidia-force-composition-pipeline.desktop
    ```
 
-3. **Add the following content to the file:**
+3️⃣ **Add the following content to the file:**
    ```plaintext
    [Desktop Entry]
    Type=Application
@@ -32,12 +32,12 @@ Follow these simple steps to set up the NVIDIA Force Composition Pipeline script
 
    Save the file with **Ctrl+O**, confirm, and then exit with **Ctrl+X**.
 
-4. **Make the script executable:**
+4️⃣ **Make the script executable:**
    ```bash
    chmod +x ~/.config/autostart/nvidia-force-composition-pipeline.desktop
    ```
 
-5. **Restart your system:**
+5️⃣ **Restart your system:**
    Once your system restarts, the NVIDIA Force Composition Pipeline will be enabled automatically. 🎉
 
 ---
