@@ -3,7 +3,7 @@
 ## 📌 What is the NVIDIA Force Composition Pipeline?
 The NVIDIA Force Composition Pipeline is a powerful tool that helps to eliminate screen tearing by enforcing a composition pipeline in the NVIDIA settings. This is particularly useful for systems using NVIDIA GPUs where screen tearing can be an issue during video playback, gaming, or general desktop use.
 
-![NVIDIA Settings](https://kephost.net/p/MTY1Nzg0NQ.png)
+![NVIDIA Settings](https://linux-blog.anracom.com/wp-content/uploads/2020/11/nvidia-settings.png)
 
 ---
 
