@@ -51,6 +51,8 @@ This script ensures that the Force Composition Pipeline is enabled at every star
 
 Enjoy tear-free visuals with your NVIDIA GPU! 🟩
 
+![nvidia Logo](https://datasciencefestival.com/wp-content/uploads/2024/04/nvidia-logo-horiz-rgb-1c-blk-for-screen-1.png)
+
 ## ☕ Support
 If you found this helpful, consider supporting me with a coffee:
 
